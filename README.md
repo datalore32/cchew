@@ -53,7 +53,9 @@ Working on various analytics based cases that facilitates clients for next-gener
 ### EDUCATION
 <!-- Add your details -->
 ##### National University of Singapore
-Business Administration (Marketing major)
+Business Administration Degree (Marketing major)
+
+Completed courses in data analytics such as: 
 
 <!-- EDUCATION Section Ends -->
 
