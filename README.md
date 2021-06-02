@@ -4,7 +4,7 @@
 
 <!-- Add your details -->
 ✉️: ccsl02@yahoo.com
-&nbsp;&nbsp; 📲 +9798 2063
+&nbsp;&nbsp; 📲 +9798 3063
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/cherylcsl) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
@@ -30,6 +30,8 @@ I have extensive experience in project and event management, with the ability to
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Extracurricular](#extracurricular activities) <br>
+
 
 <!-- ABOUT Section Ends -->
 
@@ -50,8 +52,8 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### National University of Singapore
+Business Administration (Marketing major)
 
 <!-- EDUCATION Section Ends -->
 
@@ -85,6 +87,10 @@ Regression is a supervised learning technique which helps in finding the correla
 <!-- Add your details -->
 ##### Certifications
 Machine Learning by Columbia University
+
+#####Extracurricular
+
+Some text
 
 ##### Achievements
 Star performer of the year at Accenture
