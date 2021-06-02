@@ -3,9 +3,9 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
+✉️: ccsl02@yahoo.com
+&nbsp;&nbsp; 📲 +9798 2063
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/cherylcsl) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
@@ -13,12 +13,17 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/datalore32/cchew/main/images/Cheryl.jpg)
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Cheryl Chew__, a multi-faceted senior professional with >15 years’ experience in B2B Marketing, Partner Management, and Operations across diverse industry sectors in Asia Pacific, such as SAP, UPS, Lucent Technologies, Deloitte, and Informa.
 
+The combination of technology, integrated marketing communications, and client service excellence speaks to my wide range of interests and my personality thrives in a culture of diversity, innovation in tech, and the opportunity to make a meaningful difference.
+
+From founding a startup to spearheading a brand overhaul, I excel at synthesizing market intelligence to understand customer needs and solve their problems. Over the last decade, I’ve honed critical skills to deliver tangible value to business; driving customer-centricity, leveraging data analytics to inform strategy, and steering business process optimisation.
+
+I have extensive experience in project and event management, with the ability to decode complex cross-cultural interactions and balance client satisfaction alongside business strategy and goals. Please feel free to get in touch with me directly at ccsl02@yahoo.com. I look forward to connecting with you!
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
