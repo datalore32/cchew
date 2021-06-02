@@ -17,7 +17,7 @@
 
 <!-- Add your details -->
 
-I am __Cheryl Chew__, a multi-faceted senior professional with >15 years’ experience in B2B Marketing, Partner Management, and Operations across diverse industry sectors in Asia Pacific, such as SAP, UPS, Lucent Technologies, Deloitte, and Informa.
+Hi! I am __Cheryl Chew__, a multi-faceted senior professional with >15 years’ experience in B2B Marketing, Partner Management, and Operations across diverse industry sectors in Asia Pacific, such as SAP, UPS, Lucent Technologies, Deloitte, and Informa.
 
 The combination of technology, integrated marketing communications, and client service excellence speaks to my wide range of interests and my personality thrives in a culture of diversity, innovation in tech, and the opportunity to make a meaningful difference.
 
