@@ -23,7 +23,7 @@ The combination of technology, integrated marketing communications, and client s
 
 From founding a startup to spearheading a brand overhaul, I excel at synthesizing market intelligence to understand customer needs and solve their problems. Over the last decade, I’ve honed critical skills to deliver tangible value to business; driving customer-centricity, leveraging data analytics to inform strategy, and steering business process optimisation.
 
-I have extensive experience in project and event management, with the ability to decode complex cross-cultural interactions and balance client satisfaction alongside business strategy and goals. Please feel free to get in touch with me directly at ccsl02@yahoo.com. I look forward to connecting with you!
+I have extensive experience in project and event management, with the ability to decode complex cross-cultural interactions and balance client satisfaction alongside business strategy and goals. Please feel free to get in touch with me directly at ccsl03@yahoo.com. I look forward to connecting with you!
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
