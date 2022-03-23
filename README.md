@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/datalore32/cchew/main/images/Cheryl.jpg)
+![alt text](https:)
 
 <!-- Add your details -->
 
