@@ -3,8 +3,8 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: ccsl02@yahoo.com
-&nbsp;&nbsp; 📲 +9798 3063
+✉️: ccsl03@yahoo.com
+&nbsp;&nbsp; 📲 +9
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/cherylcsl) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
